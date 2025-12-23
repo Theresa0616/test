@@ -2,6 +2,4 @@
 # 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
 ################################################################################
 
-/.vs/UnityDemo/FileContentIndex/b6b98e04-2bf4-40ac-b8d9-955b5052b8e5.vsidx
 *.vsidx
-/.vs/UnityDemo/v17/.suo
